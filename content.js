@@ -5,7 +5,7 @@ let usernameField = document.getElementById("username")
 let passwordField = document.getElementById("password")
 if (usernameField && passwordField){
     let box = document.createElement("div")
-    box.style.backgroundColor = "#ccbeb1";
+    box.style.backgroundColor = "#2054a7";
     box.style.color = "white";
     box.style.fontFamily = "Arial, sans-serif";
     box.style.borderRadius = "4.20px";
