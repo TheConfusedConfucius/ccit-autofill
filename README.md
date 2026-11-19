@@ -1,7 +1,7 @@
-## ccit-autofill
+# ccit-autofill
 Chrome extension for autofilling passwords in the LAN website
 
-# How to use it
+## How to use it
 
 Step 1: To use this extension, you can clone this repo and download it onto your PC. 
 
