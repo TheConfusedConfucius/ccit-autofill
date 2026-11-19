@@ -1,14 +1,15 @@
-console.log("LAN AUtofill loaded")
+console.log("BPHC CCIT LAN Autofill loaded")
+console.log("What are you looking for in here, broski?? Why you inspecting the page?")
 
 let usernameField = document.getElementById("username")
 let passwordField = document.getElementById("password")
 if (usernameField && passwordField){
     let box = document.createElement("div")
-    box.style.backgroundColor = "#9c751a";
+    box.style.backgroundColor = "#ccbeb1";
     box.style.color = "white";
     box.style.fontFamily = "Arial, sans-serif";
     box.style.borderRadius = "4.20px";
-    box.style.top = "67px";
+    box.style.top = "420px";
     box.style.right = "69px";
     box.style.position = "fixed";
     box.style.padding="10px";
