@@ -15,7 +15,7 @@ Step 5: Enter the Account name, username and password (which will be stored loca
 
 Step 6: Now in your LAN Login page, you can see the account names saved in a popup box title "LAN AAutofill accounts: " (the AA is on purpose ;). 
 
-# Note:
+## Note:
 
 1) This can sometimes open on other websites too which have the username and password element's IDs the same as CCIT LAN's connecting page. 
 
